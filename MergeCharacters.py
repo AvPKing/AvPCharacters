@@ -132,8 +132,6 @@ def main():
         Asura.exportChunkDict(dest, mareDict[file])
     mplst = open(os.path.join(AvPFolder, 'Characters/Multiplayer.lst'), "w")
     mplst.write('Characters/All_Characters.asr\n')
-    mplst.write('Characters/missions/A01_Lab.pc\n')
-    mplst.write('Characters/missions/M04_Ruins.pc\n')
     mplst.write('Characters/Multiplayer.en\n')
     print('Done.')
 
