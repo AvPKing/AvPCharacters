@@ -124,12 +124,6 @@ def main():
                     mergeChunkDict(chunkDict, temp)
     dest = os.path.join(AvPFolder, 'Characters/All_Characters.asr')
     Asura.exportChunkDict(dest, chunkDict)
-    # destPath = os.path.join(AvPFolder, 'Characters/mission')
-    # if not os.path.isdir(destPath):
-    #     os.mkdir(destPath)
-    # for file in mareDict:
-    #     dest = os.path.join(destPath, file)
-    #     Asura.exportChunkDict(dest, mareDict[file])
     mplst = open(os.path.join(AvPFolder, 'Characters/Multiplayer.lst'), "w")
     mplst.write('Characters/All_Characters.asr\n')
     mplst.write('Characters/Multiplayer.en\n')
