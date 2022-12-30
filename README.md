@@ -7,10 +7,10 @@ In case you do not use git, click on the green button \"Code\" at the top, and d
 
 ## How to run:
 You can follow either the GUI or the CLI steps to run the script.
-###The GUI (Graphical User Interface) way:
+### The GUI (Graphical User Interface) way:
 Right click on the MergeCharacters.py and click on open with -> python.
 
-###The CLI (Command-line Interface) way:
+### The CLI (Command-line Interface) way:
 Open the command prompt or windows powershell. Write the following:
 ```
 python c:/users/username/downloads/AvPCharacters/MergeCharacters.py
