@@ -1,6 +1,6 @@
 # AvPCharacters
 ## Dependencies
-You need python to run this application.
+You need Python to run this application. You can get it from the Microsoft Store (Windows 11), or from the official website (https://www.python.org/downloads/).
 
 ## How to download
 In case you do not use git, click on the green button \"Code\" at the top, and download the ZIP. Extract the conents in your directory of choice.
@@ -10,7 +10,7 @@ The GUI Way:
 Right click on the MergeCharacters.py and click on open with -> python.
 
 The CLI way:
-Open  the command prompt or windows powershell. Write the following:
+Open the command prompt or windows powershell. Write the following:
 ```
 python c:/users/username/downloads/AvPCharacters/MergeCharacters.py
 ```
