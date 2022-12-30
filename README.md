@@ -2,6 +2,9 @@
 ## Dependencies
 You need python to run this application.
 
+## How to download
+In case you do not use git, click on the green button \"Code\" at the top, and download the ZIP. Extract the conents in your directory of choice.
+
 ## How to run:
 The GUI Way:
 Right click on the MergeCharacters.py and click on open with -> python.
@@ -16,8 +19,7 @@ Where instead of c:/users/username/downloads/AvPCharacters/MergeCharacters.py yo
 Then when prompted, enter the avp folder, which is usually C:/Program Files(x86)/Steam/steamapps/common/Aliens vs. Predator/
 
 ## How to configure
-The game can load the textures of at most 3 missions. You can select these by editing Multiplayer.lst to include the respective files in the "mission" folder.
-By default A01_Lab and M04_Ruins are included, as they contain the textures for almost all characters and cause few conflicts.
+The script has a low memory option, for those with less than 4 gigabytes of RAM. It is recommended you run the normal version of the script first, as it is significantly faster on modern hardware. If you run into memory errors, feel free to use the low memory option.
 
 ## How to disable
 In Multiplayer.lst remove everything except Characters/Multiplayer.en
