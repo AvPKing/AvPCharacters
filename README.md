@@ -6,10 +6,11 @@ You need Python to run this application. You can get it from the Microsoft Store
 In case you do not use git, click on the green button \"Code\" at the top, and download the ZIP. Extract the conents in your directory of choice.
 
 ## How to run:
-The GUI Way:
+You can follow either the GUI or the CLI steps to run the script.
+###The GUI (Graphical User Interface) way:
 Right click on the MergeCharacters.py and click on open with -> python.
 
-The CLI way:
+###The CLI (Command-line Interface) way:
 Open the command prompt or windows powershell. Write the following:
 ```
 python c:/users/username/downloads/AvPCharacters/MergeCharacters.py
